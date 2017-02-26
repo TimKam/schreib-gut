@@ -1,0 +1,25 @@
+{
+  "name": "schreib-gut",
+  "version": "0.0.1",
+  "description": "German extension for [write-good](https://github.com/btford/write-good)",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TimKam/schreib-gut.git"
+  },
+  "keywords": [
+    "German",
+    "writing",
+    "linting"
+  ],
+  "author": "Timotheus Kampik",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/TimKam/schreib-gut/issues"
+  },
+  "homepage": "https://github.com/TimKam/schreib-gut#readme",
+  "dependencies": {
+    "too-wordy-german": "^0.1.2",
+    "weasel-words-german": "^0.1.0"
+  }
+}
